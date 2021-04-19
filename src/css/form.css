@@ -1,0 +1,9 @@
+/**
+ * Styles for the add-observation.html page 
+ */
+label span {
+  color: #008cff;
+}
+label required {
+  color: red;
+}
